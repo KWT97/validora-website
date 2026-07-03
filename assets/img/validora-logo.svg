@@ -1,0 +1,6 @@
+<svg width="160" height="44" viewBox="0 0 160 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="44" height="44" rx="14" fill="url(#g)"/>
+  <path d="M14 23.5L20 29.5L31 15" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="56" y="29" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800" fill="#F7FAFC">Validora</text>
+  <defs><linearGradient id="g" x1="4" y1="4" x2="40" y2="40"><stop stop-color="#6D7DFF"/><stop offset="1" stop-color="#22D3EE"/></linearGradient></defs>
+</svg>
